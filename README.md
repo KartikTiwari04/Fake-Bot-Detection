@@ -99,6 +99,10 @@ To run the project in your local environment, follow these steps:
 7. Run `npm start` to start the development server (runs on port 3000).
 8. Open [http://localhost:3000](http://localhost:3000) (or the address shown in your console) in your web browser to view the app.
 
+📹 Video
+
+https://github.com/user-attachments/assets/fa68e4e4-a2be-4c6d-8708-dd1008b34a37
+
 
 ## 🔗 Links
 
