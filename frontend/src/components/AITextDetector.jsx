@@ -7,7 +7,7 @@ export default function AITextDetector() {
   const [result, setResult] = useState(null);
   const [error, setError] = useState('');
 
-  const API_URL = 'http://localhost:8000'; // Change this to your backend URL
+  const API_URL = import.meta.env.VITE_API_BASE_URL;
 
   const analyzeText = async () => {
     if (!text.trim()) {
