@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/fa68e4e4-a2be-4c6d-8708-dd1008b34a37
 
 ## 🔗 Links
 
-- **Live Demo**: [Add your deployed link here]
+- **Live Demo**: fake-bot-detection.vercel.app
 - **API Documentation**: Available at `/docs` endpoint when backend is running
 
 ---
